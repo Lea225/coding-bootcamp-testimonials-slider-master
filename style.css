@@ -55,10 +55,10 @@ section{
     text-align: center;
     letter-spacing: 10px;
     background-color: hsl(0, 0%, 100%);
-    box-shadow: 4px 6px 6px hsl(240, 18%, 77%);
+    box-shadow: 4px 10px 10px hsl(240, 18%, 77%);
 }
 .icons{
-    top: 93%;
+    top: 85%;
     left: 60%;
 }
 .icons img:hover,.icons-1 img:hover{
@@ -125,5 +125,8 @@ section{
         top: -50%;
         height: 100vh;
         background-size: 100%;
+    }
+    .name p{
+        font-size: 0.8em;
     }
 }
